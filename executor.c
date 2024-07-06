@@ -1,6 +1,4 @@
-/* Name: Fakhreya Mohammadi
-Directory ID: fmohamm1
-University ID Number: 118343679 */
+
 
 #include <stdlib.h>
 #include <sys/types.h>
